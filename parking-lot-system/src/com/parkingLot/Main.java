@@ -22,7 +22,7 @@ public class Main {
         parkingService.addParkingSpot(spot1);
         parkingService.addParkingSpot(spot2);
         parkingService.addParkingSpot(spot3);
-        
+
         Vehicle car1 = new Car();
         car1.setLicenseNumber("ASF13123");
         Vehicle truck1 = new Truck();
