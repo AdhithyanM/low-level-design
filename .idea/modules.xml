@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/machine-coding-lld.iml" filepath="$PROJECT_DIR$/.idea/machine-coding-lld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-lot-system/parking-lot-system.iml" filepath="$PROJECT_DIR$/parking-lot-system/parking-lot-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ride-booking-system/ride-booking-system.iml" filepath="$PROJECT_DIR$/ride-booking-system/ride-booking-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid-principles/solid-principles.iml" filepath="$PROJECT_DIR$/solid-principles/solid-principles.iml" />
+    </modules>
+  </component>
+</project>
