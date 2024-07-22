@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/machine-coding-lld.iml" filepath="$PROJECT_DIR$/.idea/machine-coding-lld.iml" />
       <module fileurl="file://$PROJECT_DIR$/parking-lot-system/parking-lot-system.iml" filepath="$PROJECT_DIR$/parking-lot-system/parking-lot-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/ride-booking-system/ride-booking-system.iml" filepath="$PROJECT_DIR$/ride-booking-system/ride-booking-system.iml" />
