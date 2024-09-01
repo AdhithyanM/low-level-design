@@ -1,3 +1,5 @@
+package cache;
+
 import java.util.HashMap;
 import java.util.LinkedHashSet;
 import java.util.Map;
@@ -87,7 +89,7 @@ public class LFUCache implements Cache {
 
     @Override
     public void display() {
-        System.out.println("LFU Cache Contents: ");
+        System.out.println("LFU cache.Cache Contents: ");
         for (int i = 1; i <= cache.size(); i++) {
             if(freqMap.containsKey(i)) {
                 System.out.println("Freq: " + i + ": " + freqMap.get(i));

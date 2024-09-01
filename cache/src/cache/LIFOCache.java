@@ -1,3 +1,5 @@
+package cache;
+
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -45,7 +47,7 @@ public class LIFOCache implements Cache {
 
     @Override
     public void display() {
-        System.out.println("LIFO Cache Contents: ");
+        System.out.println("LIFO cache.Cache Contents: ");
         cache.entrySet().forEach(entry -> System.out.println(entry.getKey() + ": " + entry.getValue()));
     }
 }

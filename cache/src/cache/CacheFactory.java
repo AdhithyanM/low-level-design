@@ -1,3 +1,5 @@
+package cache;
+
 public class CacheFactory {
     public static Cache getCache(EvictionPolicy evictionPolicy, int capacity) {
         return switch (evictionPolicy) {

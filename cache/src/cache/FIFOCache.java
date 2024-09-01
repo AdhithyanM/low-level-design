@@ -1,3 +1,6 @@
+package cache;
+
+
 import java.util.*;
 
 public class FIFOCache implements Cache {
@@ -32,7 +35,7 @@ public class FIFOCache implements Cache {
 
     @Override
     public void display() {
-        System.out.println("FIFO Cache Contents: ");
+        System.out.println("FIFO cache.Cache Contents: ");
         cache.entrySet().forEach(entry -> System.out.println(entry.getKey() + ": " + entry.getValue()));
     }
 }

@@ -1,3 +1,5 @@
+package cache;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -35,7 +37,7 @@ public class LRUCache implements Cache {
 
     @Override
     public void display() {
-        System.out.println("LRU Cache Contents: ");
+        System.out.println("LRU cache.Cache Contents: ");
         cache.entrySet().forEach(entry -> System.out.println(entry.getKey() + ": " + entry.getValue()));
     }
 }

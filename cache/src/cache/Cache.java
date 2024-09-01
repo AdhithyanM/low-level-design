@@ -1,3 +1,5 @@
+package cache;
+
 public interface Cache {
     void add(String key, String value);
     String remove(String key);
