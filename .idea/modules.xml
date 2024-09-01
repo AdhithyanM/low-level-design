@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/board-game/board-game.iml" filepath="$PROJECT_DIR$/board-game/board-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-game/chess-game.iml" filepath="$PROJECT_DIR$/chess-game/chess-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-validator/chess-validator.iml" filepath="$PROJECT_DIR$/chess-validator/chess-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flight-system/flight-system.iml" filepath="$PROJECT_DIR$/flight-system/flight-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inifinite-board-game/inifinite-board-game.iml" filepath="$PROJECT_DIR$/inifinite-board-game/inifinite-board-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/machine-coding-lld.iml" filepath="$PROJECT_DIR$/.idea/machine-coding-lld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/others/others.iml" filepath="$PROJECT_DIR$/others/others.iml" />
       <module fileurl="file://$PROJECT_DIR$/parking-lot-system/parking-lot-system.iml" filepath="$PROJECT_DIR$/parking-lot-system/parking-lot-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/ride-booking-system/ride-booking-system.iml" filepath="$PROJECT_DIR$/ride-booking-system/ride-booking-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-and-ladder-game/snake-and-ladder-game.iml" filepath="$PROJECT_DIR$/snake-and-ladder-game/snake-and-ladder-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/solid-principles/solid-principles.iml" filepath="$PROJECT_DIR$/solid-principles/solid-principles.iml" />
     </modules>
   </component>
